@@ -5,4 +5,4 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![logo](https://firebasestorage.googleapis.com/v0/b/proyecto1-sj.appspot.com/o/descarga.jpg?alt=media&token=a5fe0c09-ea5d-48e7-83b9-ba826e6ff04c)
+![logo](https://firebasestorage.googleapis.com/v0/b/proyecto1-sj.appspot.com/o/profile.jpeg?alt=media&token=b701ff2c-b28a-419f-8062-920d5abfa8d1)
