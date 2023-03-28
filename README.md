@@ -1,10 +1,10 @@
 # :wolf: About me: 
 
-### :mortar_board::books: I am Software Development student.
+### :mortar_board: I am Software Development student.
 
 ### :computer: I am currently learning Back-End development.
 
-### :email::mailbox_with_no_mail: How to reach me: Email santiagojaramillojg@gmail.com
+### :mailbox_with_no_mail: How to reach me: Email santiagojaramillojg@gmail.com
 
 
 
