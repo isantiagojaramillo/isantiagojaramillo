@@ -2,7 +2,7 @@
 
 ### :mortar_board: I am Software Development student.
 
-### :computer: I am currently learning Back-End development.
+### :computer: I am currently learning Front-End Development.
 
 ### :mailbox_with_no_mail: How to reach me: Email sajaramillogr@cesde.net
 
