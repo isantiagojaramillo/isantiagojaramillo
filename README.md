@@ -2,9 +2,9 @@
 
 ### :mortar_board: I am Software Development student.
 
-### :computer: I am currently learning back-end development with ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white).
+### :computer: I am currently learning back-end development.
 
-### :white_circle:  I am interested in Cibersecurity.
+### :microscope: :computer: I am interested in Data Science and Cibersecurity.
 
 ### :mailbox_with_no_mail: How to reach me: Email sajaramillogr@cesde.net
 
