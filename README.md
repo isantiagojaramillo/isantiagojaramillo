@@ -4,7 +4,7 @@
 
 ### :computer: I am currently learning web development.
 
-### :microscope: :computer: I am interested in Cibersecurity.
+### :computer: I am interested in Cybersecurity.
 
 ### :mailbox_with_no_mail: How to reach me: Email sajaramillogr@cesde.net
 
