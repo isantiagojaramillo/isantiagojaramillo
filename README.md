@@ -2,7 +2,7 @@
 
 ### :mortar_board: I am Software Development student.
 
-### :computer: I am currently learning front-end development with ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB).
+### :computer: I am currently learning web development.
 
 ### :microscope: :computer: I am interested in Data Science and Cibersecurity.
 
