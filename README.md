@@ -2,9 +2,9 @@
 
 ### :mortar_board: I am Software Development student.
 
-### :computer: I am currently learning web development. ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### :computer: I am currently learning web development and Cloud Computing. ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### :computer: I am interested in Cybersecurity and Cloud Computing. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### :computer: I am interested in Cybersecurity (Pentesting). ![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 ### :mailbox_with_no_mail: How to reach me: Email sajaramillogr@cesde.net
 
