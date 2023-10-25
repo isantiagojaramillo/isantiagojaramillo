@@ -2,7 +2,7 @@
 
 #### :mortar_board: I am Software Development student
 
-#### :computer: I am currently learning web development and Cloud Computing ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### :computer: I am currently learning Cloud Computing ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### :mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
 
