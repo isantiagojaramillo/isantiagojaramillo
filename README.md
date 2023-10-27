@@ -1,4 +1,4 @@
-# :wolf: About me: 
+# :wolf: <font color="white"> About me: </font>
 
 #### :mortar_board: I am Software Development student
 
