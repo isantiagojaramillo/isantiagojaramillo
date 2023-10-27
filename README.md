@@ -2,11 +2,11 @@
 
 #### :mortar_board: I am Software Development student
 
-#### :computer: I am currently learning Cloud Computing ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### :computer: I am currently learning Cloud Computing ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### :mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
 
-#### :zap: Fun fact: I am a cybersecurity enthusiast (Pentesting) ![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+#### :zap: Fun fact: I'm a cybersecurity enthusiast (Pentesting) ![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 
