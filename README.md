@@ -3,14 +3,10 @@
 :mortar_board: I am Software Development student
 
 :computer: I am currently learning Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 :mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
 
-:zap: Fun fact: I'm a cybersecurity enthusiast (Pentesting)
-![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-
+:zap: Fun fact: I'm a cybersecurity enthusiast
 
 
 # :computer: Tech Stack:
@@ -25,6 +21,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
+
 
 # Random Quote:
 
