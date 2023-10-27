@@ -1,16 +1,19 @@
-# :wolf: <font color="white"> About me: </font>
+# :wolf: <font color="#fff"> About me: </font>
 
-#### :mortar_board: I am Software Development student
+#### :mortar_board: <font color="#fff">I am Software Development student</font>
 
-#### :computer: I am currently learning Cloud Computing ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### :computer: <font color="#fff">I am currently learning Cloud Computing</font> 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### :mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
+#### :mailbox_with_no_mail: <font color="#fff">How to reach me: Email - sajaramillogr@cesde.net</font>
 
-#### :zap: Fun fact: I'm a cybersecurity enthusiast (Pentesting) ![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+#### :zap: <font color="#fff">Fun fact: I'm a cybersecurity enthusiast (Pentesting)</font> 
+![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 
-# :computer: Tech Stack:
+# :computer: <font color="#fff">Tech Stack:</font> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,8 +26,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
 
-# Random Quote:
+# <font color="#fff">Random Quote:</font> 
 
-#### *"Sometimes it is the people who no-one imagines anything of who do the things that no-one can imagine"* ***Alan Turing***
+#### <font color="#fff">*"Sometimes it is the people who no-one imagines anything of who do the things that no-one can imagine"* ***Alan Turing***</font>
 
    
