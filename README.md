@@ -1,13 +1,13 @@
 # :wolf: <font color="#fff"> About me: </font>
 
-#### :mortar_board: <font color="#fff">I am Software Development student</font>
+:mortar_board: <font color="#fff">I am Software Development student</font>
 
-#### :computer: <font color="#fff">I am currently learning Cloud Computing</font> 
+:computer: <font color="#fff">I am currently learning Cloud Computing</font> 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### :mailbox_with_no_mail: <font color="#fff">How to reach me: Email - sajaramillogr@cesde.net</font>
+:mailbox_with_no_mail: <font color="#fff">How to reach me: Email - sajaramillogr@cesde.net</font>
 
-#### :zap: <font color="#fff">Fun fact: I'm a cybersecurity enthusiast (Pentesting)</font> 
+:zap: <font color="#fff">Fun fact: I'm a cybersecurity enthusiast (Pentesting)</font> 
 ![Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
@@ -28,6 +28,6 @@
 
 # <font color="#fff">Random Quote:</font> 
 
-#### <font color="#fff">*"Sometimes it is the people who no-one imagines anything of who do the things that no-one can imagine"* ***Alan Turing***</font>
+ <font color="#fff">*"Sometimes it is the people who no-one imagines anything of who do the things that no-one can imagine"* ***Alan Turing***</font>
 
    
