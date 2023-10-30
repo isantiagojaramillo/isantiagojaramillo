@@ -6,8 +6,6 @@
 
 :mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
 
-:zap: Fun fact: I'm a cybersecurity enthusiast
-
 
 # :computer: Tech Stack:
 
