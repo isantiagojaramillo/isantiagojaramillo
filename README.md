@@ -2,8 +2,6 @@
 
 :mortar_board: I am Software Development student
 
-:computer: I am currently learning Cloud Computing
-
 :mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
 
 
