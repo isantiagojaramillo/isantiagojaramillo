@@ -1,11 +1,11 @@
-# :wolf: About me: 
+#  About me: 
 
-:mortar_board: I am Software Development student
+ I am Software Development student
 
-:mailbox_with_no_mail: How to reach me: Email - sajaramillogr@cesde.net
+ How to reach me: Email - sajaramillogr@cesde.net
 
 
-# :computer: Tech Stack:
+# Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
