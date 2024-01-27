@@ -1,12 +1,8 @@
 #  About me: 
 
- I am a ReactJS Frontend Developer
-
- I am Software Development student
+ I am Software Development student | Frontend | ReactJS
 
  I am a Systems Technologist
-
- I am interested in Data Science and Cybersecurity
 
  How to reach me: Email - sajaramillogr@cesde.net
 
