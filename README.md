@@ -4,7 +4,11 @@
 
  |  How to reach me: Email - sajaramillogr@cesde.net
 
- https://tryhackme.com/imsntiago/badges/terminaled 
+
+# TryHackMe
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/isantiagojaramillo.png)](https://tryhackme.com/p/isantiagojaramillo)
+
 
 
 # Tech Stack:
