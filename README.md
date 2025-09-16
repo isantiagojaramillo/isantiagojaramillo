@@ -47,8 +47,6 @@ alt="isantiagojaramillo"/>
   </a>
 </p>
 
-### Visitor's count :eyes:
 
-<img src="https://profile-counter.glitch.me/{isantiagojaramillo}/count.svg" alt="isantiagojaramillo :: Visitor's Count" />
 
    
